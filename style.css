@@ -1,23 +1,21 @@
-
 html {
-    background-color: #021526;
-    color: #E2E2B6;
+  background-color: #021526;
+  color: #e2e2b6;
 }
 h1 {
-    
-    text-transform: uppercase;
-    font-size: 3.5rem;
+  text-transform: uppercase;
+  font-size: 3.5rem;
 }
 
 .poster {
-    width: 50%;
-    height: 50%;
-    text-align: center;
-    margin:auto;
-    margin-top: 5%;
-    font-family: "Libre Baskerville", serif; 
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 5%;
+  font-family: "Libre Baskerville", serif;
 }
 .poster-img {
-    width: 100%;
-    border: 5px solid #a3d7ff ;
+  width: 100%;
+  border: 5px solid #a3d7ff;
 }
